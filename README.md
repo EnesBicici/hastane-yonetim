@@ -1,4 +1,4 @@
-# Etkinlik Yönetim Sistemi
+# Hastane Randevu Yönetim Sistemi
 
 ## Kullanılan Araçlar
 - **Nesne Yönelimli Programlama**: Projemiz, nesne yönelimli programlama prensiplerine dayalı olarak geliştirilmiştir, bu da kodun daha anlaşılır ve yeniden kullanılabilir olmasını sağlar.
