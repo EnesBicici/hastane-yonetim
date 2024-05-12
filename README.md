@@ -26,7 +26,7 @@
 - Açılan pencerede hasta bilgilerini girin.
 - Ekle butonuna basın.
 
-- ### Hasta Sil
+### Hasta Sil
 - Hasta kaydını silmek için anasayfadaki Hasta menüsünden Hasta Sil butonuna basın.
 - Açılan pencerede silmek istediğiniz hastayı seçin.
 - Sil butonuna basın.
