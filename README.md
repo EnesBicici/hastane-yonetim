@@ -36,7 +36,7 @@
 - Açılan pencerede doktorun hastanesini, bölümünü seçin ve ad soyad bilgisi girin.
 - Ekle butonuna basın.
 
-- ### Doktor Sil
+### Doktor Sil
 - Doktor kaydını silmek için anasayfadaki Doktor menüsünden Doktor Sil butonuna basın.
 - Açılan pencerede silmek istediğiniz doktoru seçin.
 - Sil butonuna basın.
